@@ -47,9 +47,6 @@ body {
   color: var(--white);
 }
 
-.header__booking {
-}
-
 .button {
   font-family: var(--primary-font);
   font-weight: 700;
@@ -103,9 +100,6 @@ body {
 }
 
 /* About section style */
-
-.about {
-}
 
 .about__subtitle {
   font-size: 11px;
